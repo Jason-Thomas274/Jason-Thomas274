@@ -7,7 +7,10 @@
 
 🌱 Honing my craft while enjoying the sun and surviving the heat in Arizona 🌞
 
-📬 Reach me on my social
+<!--
+📬 Reach me on my socials!
+📬 Reach me first.last@yourdomain.com
+-->
 
 <!--
 **Jason-Thomas274/Jason-Thomas274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
