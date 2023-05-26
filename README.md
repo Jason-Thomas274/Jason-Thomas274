@@ -3,7 +3,7 @@
 
 🧑‍💻 Working as a Systems Analyst
 
-🔭 Looking forward to completing my porfolio and personal side projects
+🔭 Hacking, creating, making, updating, breaking, fixing, repeat
 
 🌱 Honing my craft while enjoying the sun and surviving the heat in Arizona 🌞
 <!--
