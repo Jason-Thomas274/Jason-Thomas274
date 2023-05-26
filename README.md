@@ -1,11 +1,14 @@
-### Hi there 👋 
+### Hi there, i'm Jason 👋 
 🔱 Recent engineering graduate, class of 2023 @ ASU, go devils!! 😈
 
 🧑‍💻 Working as a Systems Analyst
 
-🔭 Hacking, creating, making, updating, breaking, fixing, repeat
+🔭 Hacking, programming, creating, making, coffee ☕️
 
 🌱 Honing my craft while enjoying the sun and surviving the heat in Arizona 🌞
+
+<!-- 📬 Reach me at email.name@email.com -->
+
 <!--
 **Jason-Thomas274/Jason-Thomas274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
