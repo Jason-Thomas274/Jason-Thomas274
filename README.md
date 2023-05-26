@@ -1,4 +1,4 @@
-### Hi there, i'm Jason 👋 
+### Hi there, I'm Jason 👋 
 🔱 Recent engineering graduate, class of 2023 @ ASU, go devils!! 😈
 
 🧑‍💻 Working as a Systems Analyst
