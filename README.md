@@ -1,11 +1,11 @@
 ### Hi there 👋
-🔱 Recent engineering graduate, class of 2023 @ ASU, go devils!! 😈 <br />
+🔱 Recent engineering graduate, class of 2023 @ ASU, go devils!! 😈__
 
-🧑‍💻 Working as a Systems Analyst <br />
+🧑‍💻 Working as a Systems Analyst__
 -
-🔭 Looking forward to completing my porfolio and personal side projects <br />
+🔭 Looking forward to completing my porfolio and personal side projects__
 -
-🌱 Honing my craft while enjoying the sun here in Arizona 🌞 <br />
+🌱 Honing my craft while enjoying the sun and surviving the heat in Arizona 🌞__
 <!--
 **Jason-Thomas274/Jason-Thomas274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
