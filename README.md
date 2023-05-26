@@ -3,7 +3,7 @@
 
 🧑‍💻 Working as a Systems Analyst
 
-🔭 Hacking, programming, creating, making, coffee ☕️
+🔭 Hacking, programming, creating, making, and coffee ☕️
 
 🌱 Honing my craft while enjoying the sun and surviving the heat in Arizona 🌞
 
