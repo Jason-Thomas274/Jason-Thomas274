@@ -3,10 +3,6 @@
 
 🧑‍💻 Working as a Systems Analyst/Developer
 
-🔭 Hacking, programming, creating, making
-
-🌱 Honing my craft, while surviving this heat
-
 <!--
 📬 Reach me on my socials!
 📬 Reach me first.last@yourdomain.com
