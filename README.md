@@ -3,9 +3,9 @@
 
 🧑‍💻 Working as a Systems Analyst/Developer
 
-🔭 Hacking, programming, creating, making, and coffee ☕️
+🔭 Hacking, programming, creating, making
 
-🌱 Honing my craft while enjoying the sun and surviving the heat in Arizona 🌞
+🌱 Honing my craft
 
 <!--
 📬 Reach me on my socials!
