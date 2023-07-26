@@ -6,6 +6,8 @@
 <!--
 📬 Reach me on my socials!
 📬 Reach me first.last@yourdomain.com
+🔭 Hacking, programming, creating, making
+🌱 Honing my craft, while surviving this heat
 -->
 
 <!--
