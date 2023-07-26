@@ -5,7 +5,7 @@
 
 🔭 Hacking, programming, creating, making
 
-🌱 Honing my craft
+🌱 Honing my craft, while surviving this heat
 
 <!--
 📬 Reach me on my socials!
