@@ -2,7 +2,6 @@
 🔱 Information Technology honors graduate, class of 2023 @ Fulton Schools of Engineering @ ASU, go devils!! 😈
 
 🧑‍💻 Working as a Systems Analyst/Developer
-🔭 Interested in full stack development
 
 <!--
 📬 Reach me on my socials!
