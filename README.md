@@ -1,8 +1,6 @@
 ### Hi there, I'm Jason 👋 
 🔱 Information Technology honors graduate, class of 2023 @ Fulton Schools of Engineering @ ASU, go devils!! 😈
 
-🧑‍💻 Working as a Systems Analyst/Developer
-
 <!--
 📬 Reach me on my socials!
 📬 Reach me first.last@yourdomain.com
